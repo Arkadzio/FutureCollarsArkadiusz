@@ -1,4 +1,1 @@
-# FutureCollarsArkadiuszszlag mnie trafi
-yyyyyyy
-BLADA D
-nadal nie wiem
+My first GIT repository commands practised
